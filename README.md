@@ -1,4 +1,4 @@
-# Hi, I'm Bilguun 👋
+# Hi, I'm Bill 👋
 
 I'm a Computer Science graduate from the University of San Diego and currently pursuing my M.S. in Data Science at Johns Hopkins University. I am interested in data engineering, analytics, machine learning, and building practical technology solutions that solve real problems.
 
